@@ -1,0 +1,23 @@
+{
+  "name": "-jsaqa_7.2_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint",
+    "prettier": "prettier"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavlovavd/-jsaqa_7.2_node.js.git"
+  },
+  "author": "pavlovavd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pavlovavd/-jsaqa_7.2_node.js/issues"
+  },
+  "devDependencies": {
+    "eslint": "^8.20.0",
+    "prettier": "^2.7.1"
+  }
+}
